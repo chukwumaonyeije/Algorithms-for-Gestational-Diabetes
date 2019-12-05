@@ -1,2 +1,14 @@
-# Algorithms-for-Gestational-Diabetes
-Gestational diabetes an extremely dangerous enemy to both the mother and her fetus
+---
+description: >-
+  How algorithms will change the nature of gestational diabetes for the better
+  outcomes.
+---
+
+# Algorithms for Gestational Diabetes
+
+{% page-ref page="./" %}
+
+
+
+![](.gitbook/assets/gdmrevolution2.png)
+
