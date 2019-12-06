@@ -6,7 +6,6 @@ description: >-
 
 # Algorithms for Gestational Diabetes
 
-{% page-ref page="./" %}
 
 
 
